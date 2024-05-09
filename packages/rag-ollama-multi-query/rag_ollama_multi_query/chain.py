@@ -71,3 +71,6 @@ chain = (
 #
 #
 # chain = chain.with_types(input_type=Question)
+if __name__ == '__main__':
+    result = chain.invoke("What are the different types of agent memory?")
+    print(f"result:{result}")
