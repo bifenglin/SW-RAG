@@ -1,7 +1,7 @@
 from langchain.retrievers.multi_query import MultiQueryRetriever
 from langchain_community.chat_models import ChatOpenAI
 # from langchain_community.chat_models import ChatOllama, ChatOpenAI
-from langchain_community.document_loaders import WebBaseLoader
+from langchain_community.document_loaders import TextLoader
 from langchain_community.embeddings import OpenAIEmbeddings
 from langchain_community.vectorstores import Chroma
 from langchain_core.output_parsers import StrOutputParser
@@ -11,7 +11,7 @@ from langchain_core.runnables import RunnableParallel, RunnablePassthrough
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 # Load
-loader = WebBaseLoader("https://juejin.cn/post/7351321279356715058")
+loader = TextLoader("/Users/bifenglin/Code/SW-RAG/packages/rag-ollama-multi-query/Data/Additional/crowdsourced-facts.txt")
 data = loader.load()
 
 # Split

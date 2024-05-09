@@ -14,7 +14,6 @@ uvicorn = "^0.23.2"
 langserve = {extras = ["server"], version = ">=0.0.30"}
 pydantic = "<2"
 rag-ollama-multi-query = {path = "packages/rag-ollama-multi-query", develop = true}
-rag-multi-index-router = {path = "packages/rag-multi-index-router", develop = true}
 
 
 [tool.poetry.group.dev.dependencies]
