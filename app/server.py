@@ -1,7 +1,6 @@
 from fastapi import FastAPI
 from fastapi.responses import RedirectResponse
 from langserve import add_routes
-from rag_ollama_multi_query import chain as rag_ollama_multi_query_chain
 from rag_chroma_private import chain as rag_chroma_private_chain
 
 app = FastAPI()
@@ -13,7 +12,6 @@ async def redirect_root_to_docs():
 
 
 # Edit this to add the chain you want to add
-add_routes(app, rag_ollama_multi_query_chain, path="/rag-ollama-multi-query")
 add_routes(app, rag_chroma_private_chain, path="/rag-chroma-private")
 
 if __name__ == "__main__":
