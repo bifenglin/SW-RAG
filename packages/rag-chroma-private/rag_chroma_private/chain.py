@@ -1,6 +1,6 @@
 # Load
 from langchain_community.chat_models import ChatOllama
-from langchain_community.document_loaders import WebBaseLoader
+from langchain_community.document_loaders import WebBaseLoader, PyPDFLoader
 from langchain_community.embeddings import GPT4AllEmbeddings, OpenAIEmbeddings
 from langchain_community.vectorstores import Chroma
 from langchain_core.output_parsers import StrOutputParser
@@ -9,7 +9,7 @@ from langchain_core.pydantic_v1 import BaseModel
 from langchain_core.runnables import RunnableParallel, RunnablePassthrough
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
-loader = WebBaseLoader("https://lilianweng.github.io/posts/2023-06-23-agent/")
+loader = PyPDFLoader("packages/rag-chroma-private/docs/LLaVA.pdf")
 data = loader.load()
 
 # Split
