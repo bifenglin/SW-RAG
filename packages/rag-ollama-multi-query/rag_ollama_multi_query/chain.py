@@ -12,7 +12,6 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 # Load
 loader = PyPDFLoader("packages/rag-chroma-private/docs/LLaVA.pdf")
 data = loader.load()
-
 # Split
 text_splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=0)
 all_splits = text_splitter.split_documents(data)
