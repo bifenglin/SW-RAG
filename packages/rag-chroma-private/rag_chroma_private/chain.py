@@ -1,7 +1,7 @@
 # Load
 from langchain_community.chat_models import ChatOllama
 from langchain_community.document_loaders import WebBaseLoader, PyPDFLoader
-from langchain_community.embeddings import GPT4AllEmbeddings, OpenAIEmbeddings
+from langchain_community.embeddings import GPT4AllEmbeddings, OpenAIEmbeddings, OllamaEmbeddings
 from langchain_community.vectorstores import Chroma
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.prompts import ChatPromptTemplate
@@ -21,7 +21,7 @@ all_splits = text_splitter.split_documents(data)
 vectorstore = Chroma.from_documents(
     documents=all_splits,
     collection_name="rag-private",
-    embedding=OpenAIEmbeddings(),
+    embedding=OllamaEmbeddings(),
 )
 retriever = vectorstore.as_retriever()
 

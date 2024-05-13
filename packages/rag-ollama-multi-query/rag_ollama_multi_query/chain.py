@@ -2,6 +2,7 @@ from langchain.retrievers.multi_query import MultiQueryRetriever
 from langchain_community.chat_models import ChatOllama, ChatOpenAI
 from langchain_community.document_loaders import PyPDFLoader
 from langchain_community.embeddings import OpenAIEmbeddings
+from langchain_community.embeddings import OllamaEmbeddings
 from langchain_community.vectorstores import Chroma
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.prompts import ChatPromptTemplate, PromptTemplate
@@ -17,11 +18,18 @@ text_splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=0)
 all_splits = text_splitter.split_documents(data)
 
 # Add to vectorDB
+# vectorstore = Chroma.from_documents(
+#     documents=all_splits,
+#     collection_name="rag-private",
+#     embedding=OpenAIEmbeddings(),
+# )
+
 vectorstore = Chroma.from_documents(
     documents=all_splits,
     collection_name="rag-private",
-    embedding=OpenAIEmbeddings(),
+    embedding=OllamaEmbeddings(),
 )
+
 
 
 QUERY_PROMPT = PromptTemplate(
