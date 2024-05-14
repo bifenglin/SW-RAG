@@ -1,6 +1,15 @@
+from __future__ import annotations
+
 import re
-from typing import List, Optional, Any
+from typing import Any, List, Optional
+
 from langchain_text_splitters.base import Language, TextSplitter
+
+class TextSplitter:
+    def __init__(self, keep_separator: bool = True, **kwargs: Any):
+        self._keep_separator = keep_separator
+        self._chunk_size = 100  # Assuming some default chunk size for example
+        self._length_function = len  # Default length function
 
 def _split_text_with_regex(
         text: str, separator: str, keep_separator: bool
@@ -20,7 +29,7 @@ def _split_text_with_regex(
         splits = list(text)
     return [s for s in splits if s != ""]
 
-class DynamicSizeFixedStepSplitter(TextSplitter):
+class FiexedSizeFixedStepSplitter(TextSplitter):
     """Splitting text by recursively looking at characters and dynamically choosing separators."""
 
     def __init__(
@@ -48,21 +57,13 @@ class DynamicSizeFixedStepSplitter(TextSplitter):
         if not splits:
             splits = [text]
 
-        # Create chunks with fixed step size and determine the end at the next split point
-        start = 0
-        while start < len(text):
+        # Create chunks with fixed step size
+        temp = 0
+        temp_splits = []
+        for start in range(0, len(text), self._step_window):
             end = start + self._chunk_size
-
-            # Find the next split point after end
-            for split in splits:
-                split_start = text.find(split, start)
-                if split_start >= end:
-                    end = split_start + len(split)
-                    break
-
             chunk = text[start:end]
             final_chunks.append(chunk)
-            start += self._step_window
 
         return final_chunks
 
