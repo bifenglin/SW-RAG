@@ -55,8 +55,10 @@ class DynamicSizeDynamicStepSplitter(TextSplitter):
                     break
 
         # Remove chunks that do not exceed 100 characters in length
-        final_chunks = [chunk for chunk in final_chunks if len(chunk) > 100]
-
+        final_chunks = [chunk for chunk in final_chunks if len(chunk) > 10]
+        chunk_sizes = [(len(chunk), chunk) for chunk in final_chunks]
+        chunk_sizes.sort(reverse=True, key=lambda x: x[0])
+        print(chunk_sizes)
         return final_chunks
 
     def split_text(self, text: str) -> List[str]:

@@ -65,7 +65,7 @@ class DynamicSizeFixedStepSplitter(TextSplitter):
             start += self._step_window
 
         # Remove chunks that do not exceed 100 characters in length
-        final_chunks = [chunk for chunk in final_chunks if len(chunk) > 100]
+        final_chunks = [chunk for chunk in final_chunks if len(chunk) > 10]
 
         return final_chunks
 
