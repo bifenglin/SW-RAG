@@ -65,6 +65,8 @@ class FiexedSizeFixedStepSplitter(TextSplitter):
             chunk = text[start:end]
             final_chunks.append(chunk)
 
+        # Remove chunks that do not exceed 100 characters in length
+        final_chunks = [chunk for chunk in final_chunks if len(chunk) > 100]
         return final_chunks
 
     def split_text(self, text: str) -> List[str]:
