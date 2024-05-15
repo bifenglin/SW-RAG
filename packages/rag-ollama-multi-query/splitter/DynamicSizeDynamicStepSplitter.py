@@ -103,17 +103,17 @@ class DynamicSizeDynamicStepSplitter(TextSplitter):
 
         # Further split the chunks based on window_size and step_size
         split_chunks = []
-        for index, chunk in final_chunks:
-            start_index = 0
+        for index, chunk in enumerate(final_chunks):
+            start_index = index
             total_length = 0
             temp_chunk = ''
-            while start_index < len(final_chunks) - index:
-                total_length = total_length + len(final_chunks[index + start_index])
-                temp_chunk = "".join(temp_chunk, final_chunks.index(start_index))
+            while start_index < len(final_chunks):
+                total_length += len(final_chunks[start_index])
+                temp_chunk += final_chunks[start_index]
                 if total_length >= self._window_size:
-                    split_chunks.append(chunk[start_index:])
+                    split_chunks.append(temp_chunk)
                     break
-                start_index = start_index + 1
+                start_index += 1
 
         # Remove chunks that do not exceed 100 characters in length
         split_chunks = [chunk for chunk in split_chunks if len(chunk) > 10]
