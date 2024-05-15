@@ -1,0 +1,3 @@
+{
+    "answer": "The network's baseline features are the features extracted from the baseline method (baseline CNN architecture) used for classifying sentences as sarcastic or non-sarcastic. These features are described as the inherent semantics extracted from the sarcastic corpus by employing deep domain understanding."
+}

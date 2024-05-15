@@ -1,0 +1,3 @@
+{
+    "answer": "The baseline was a Transformer base model with specific characteristics such as 6 layers, 8 attention heads, input/output dimensionality of 512, and inner-layer dimensionality of 2048."
+}

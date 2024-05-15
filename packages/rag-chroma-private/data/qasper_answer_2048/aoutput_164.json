@@ -1,0 +1,3 @@
+{
+    "answer": "The dataset is annotated with each tweet being classified as either showing evidence of depression or not showing evidence of depression. If a tweet is annotated as evidence of depression, it is further annotated with one or more depressive symptoms. Each annotation is binarized as either the positive class (e.g., showing a depressive symptom) or the negative class (e.g., not showing a depressive symptom)."
+}

@@ -1,0 +1,3 @@
+{
+    "answer": "The models they experimented with include models using plain stacked LSTMs, models with different configurations, models without certain components, and models that integrate lower contexts via peephole connections."
+}

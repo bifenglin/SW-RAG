@@ -1,0 +1,3 @@
+{
+    "answer": "The metrics used for evaluation are average accuracy for Cross-lingual Natural Language Inference (XNLI) and LAS score for dependency parsing."
+}

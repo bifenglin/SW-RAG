@@ -1,0 +1,3 @@
+{
+    "answer": "Based on the context provided, the transformer layer works better on top of BERT compared to the RNN layer. The models RoBERT and ToBERT, which use a transformer layer on top of BERT, outperformed the models that used an RNN layer on top of BERT in the experiments conducted."
+}

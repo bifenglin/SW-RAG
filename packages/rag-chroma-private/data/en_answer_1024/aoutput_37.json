@@ -1,0 +1,3 @@
+{
+    "answer": "The stability conditions for a solution of $-\\Delta u = f(u)$ are that the solution $u$ must satisfy the inequality \\[ \\int f'(u) \\psi^2 \\le \\int | \\nabla \\psi|^2, \\qquad \\forall \\psi \\in C_c^2, \\] where $C_c^2$ is the set of $C^2$ functions defined on $\\mathbb{R}^N$ with compact support."
+}

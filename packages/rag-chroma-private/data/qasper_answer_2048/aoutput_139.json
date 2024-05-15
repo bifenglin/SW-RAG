@@ -1,0 +1,3 @@
+{
+    "answer": "The model performance on target language reading comprehension is affected by factors such as training corpus, data size, and whether the source corpus is translated into the target language. The analysis suggests that the characteristics of the training data are more important than whether the corpus is translated into the target language. Translation may degrade the performance, but whether translating the corpus into the target language is not critical."
+}

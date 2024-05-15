@@ -1,0 +1,3 @@
+{
+    "answer": "The proposed qualitative annotation schema includes categories for linguistic complexity, required reasoning, background knowledge, and factual correctness. It also categorizes expected answers into Span, Paraphrasing, Unanswerable, and Generated. Additionally, it marks sentences as Supporting Facts if they contain evidence required to produce the expected answer. The schema also annotates features related to lexical semantics, syntax, redundancy, lexical entailment, synonyms, paraphrases, abbreviations, dative cases, passive and active voice, genitive cases, nominalization, ellipsis, restrictivity, factivity modifiers, coreference, and ambiguous syntactic features."
+}

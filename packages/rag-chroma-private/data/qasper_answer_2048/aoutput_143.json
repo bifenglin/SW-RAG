@@ -1,0 +1,3 @@
+{
+    "answer": "Yes, other baselines were tested to compare with the neural baseline. These included the No-Answer Baseline, Word Count Baseline, and BERT-based baselines."
+}

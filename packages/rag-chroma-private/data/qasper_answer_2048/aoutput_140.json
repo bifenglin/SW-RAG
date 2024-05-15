@@ -1,0 +1,3 @@
+{
+    "answer": "The proposed model, ALOHA, shows a significant improvement in performance compared to the baseline open-domain chatbot models. The improvement can be observed in Hits@n/N accuracy and other metrics for retrieving the correct response of five diverse characters with different identities. Additionally, there is a noticeable improvement in performance between ALOHA and the Uniform Model in recovering the language styles of specific characters consistently across all five folds. This indicates that the lack of knowledge of HLAs limits the ability of the baseline model to successfully recover the language style of specific characters. Overall, the proposed model demonstrates a substantial performance difference compared to the baselines."
+}

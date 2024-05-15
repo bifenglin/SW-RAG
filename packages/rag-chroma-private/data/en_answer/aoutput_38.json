@@ -1,0 +1,3 @@
+{
+    "answer": "The PLMS-PPIC method uses a set of NLMS algorithms with different step-sizes instead of one NLMS algorithm used in LMS-PPIC."
+}

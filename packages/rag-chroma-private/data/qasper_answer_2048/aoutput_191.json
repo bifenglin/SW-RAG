@@ -1,0 +1,3 @@
+{
+    "answer": "The training sets of the ELMo versions discussed in the context are significantly larger compared to the previous versions. The ELMo models were trained on larger monolingual corpora from various sources for each language, which resulted in higher quality embeddings. This effort required access to large amounts of textual data and considerable computational resources."
+}

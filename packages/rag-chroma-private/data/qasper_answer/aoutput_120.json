@@ -1,0 +1,3 @@
+{
+    "answer": "Their performance on emotion detection was evaluated using two different methods: a fine-grained evaluation using Pearson's r to measure the correlation between the system scores and the gold standard, and a coarse-grained method where each emotion score was converted to a binary label. The training/developing data consisted of 250 annotated headlines, while systems were evaluated on another 1000."
+}

@@ -1,0 +1,3 @@
+{
+    "answer": "The performance of the PLM with decimation drastically overcomes the performance of the mean-field technique, especially for lower sample sizes. It is able to accurately infer the network of interaction even in under-sampling regimes. Additionally, the PLM with decimation leads to cleaner results compared to other techniques, such as the PLM with $l_2$ regularization."
+}

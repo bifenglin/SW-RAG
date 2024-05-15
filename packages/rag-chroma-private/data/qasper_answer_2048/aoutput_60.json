@@ -1,0 +1,3 @@
+{
+    "answer": "The quality of the data is empirically evaluated through various methods such as computing sentence-level BLEU scores between human translations and automatic translations, inspecting examples where the source transcript is identical to the translation, measuring the perplexity of the translations, computing the ratio of English characters in the translations, and calculating similarity scores between transcripts and translations based on LASER cross-lingual sentence embeddings. Additionally, sanity checks are conducted to ensure the overlaps of train, development, and test sets in terms of transcripts and voice clips are disjoint."
+}

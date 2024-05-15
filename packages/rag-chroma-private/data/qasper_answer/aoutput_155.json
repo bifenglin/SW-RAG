@@ -1,0 +1,3 @@
+{
+    "answer": "A semi-character architecture is a type of RNN (Recurrent Neural Network) that processes a sentence of words with misspelled characters, predicting the correct words at each step."
+}

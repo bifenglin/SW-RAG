@@ -1,0 +1,3 @@
+{
+    "answer": "They obtain the new context representation by splitting the contexts into three disjoint regions based on the two relation arguments: the left context, the middle context, and the right context. They then propose to use two contexts: one combining the left context, the left entity, and the middle context, and the other combining the middle context, the right entity, and the right context. These two contexts are processed by two independent convolutional and max-pooling layers, and the results are concatenated to form the sentence representation. By repeating the middle context, they force the network to pay special attention to it."
+}

@@ -1,0 +1,3 @@
+{
+    "answer": "The correct expression for the derivative of the function is:\n\\[ f'(x) = \\frac{1}{3\\sqrt[3]{x^2}} \\cdot \\sin{(x^2)} + 2x \\cdot \\cos{(x^2)} \\cdot \\sqrt[3]{x} \\]"
+}

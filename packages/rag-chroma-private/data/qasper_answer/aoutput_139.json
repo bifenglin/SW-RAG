@@ -1,0 +1,3 @@
+{
+    "answer": "Based on the provided context, the model performance on target language reading comprehension is better when fine-tuning on un-translated target language data compared to data translated into the target language. The results show that using untranslated data yields better performance, indicating that translation degrades the performance of the model."
+}

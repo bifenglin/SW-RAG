@@ -1,0 +1,3 @@
+{
+    "answer": "An individual model consists of a base monolingual model with Primary and Secondary roles, as well as additional crosslingual latent variables (CLVs) to capture crosslingual semantic role patterns."
+}

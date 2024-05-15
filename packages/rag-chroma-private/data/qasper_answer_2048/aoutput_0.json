@@ -1,0 +1,3 @@
+{
+    "answer": "The ground truth for fake news is established by understanding and modeling the features of viral tweets containing fake news compared to viral tweets without fake news. This involves analyzing exposure, characteristics of accounts spreading fake news, and the tone of the content to identify patterns that can help automatically detect fake news."
+}

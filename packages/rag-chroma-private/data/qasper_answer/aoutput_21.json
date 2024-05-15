@@ -1,0 +1,3 @@
+{
+    "answer": "The model improves interpretability by introducing sparse attention into the Transformer architecture, which allows for the shape of each attention head to be learnable and vary continuously between the dense limit case of softmax and the sparse, piecewise-linear sparsemax case. This adaptively sparse Transformer eases interpretability and leads to slight accuracy gains."
+}

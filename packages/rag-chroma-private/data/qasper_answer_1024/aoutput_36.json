@@ -1,0 +1,3 @@
+{
+    "answer": "Yes, this paper is introducing an unsupervised approach to spam detection by using the Latent Dirichlet Allocation (LDA) model to compute topic distributions for each user and then extracting topic-based features to distinguish human-like spammers from legitimate users."
+}

@@ -1,0 +1,3 @@
+{
+    "answer": "The experiments conducted involve sampling 50 non-ironic input sentences and their corresponding output sentences from different models. Four annotators proficient in English were asked to evaluate the qualities of the generated sentences of different models based on irony accuracy, sentiment preservation, and content preservation. The output sentences were ranked from best to worst, with the best output ranked as 1 and the worst output ranked as 6. Additionally, automatic evaluations were conducted, and the results were similar to the human evaluation results."
+}

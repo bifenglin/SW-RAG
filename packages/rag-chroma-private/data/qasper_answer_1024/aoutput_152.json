@@ -1,0 +1,3 @@
+{
+    "answer": "The results from the proposed strategies show that agents utilizing knowledge graphs in addition to enhanced exploration methods outperform the baseline A2C and KG-A2C. KG-A2C-chained and KG-A2C-Explore both pass the bottleneck of a score of 40, whereas A2C-Explore gets to the bottleneck but cannot surpass it."
+}

@@ -1,0 +1,3 @@
+{
+    "answer": "The limitations demonstrated by the authors of their model include the fact that the generated English poem may not work well with Shakespeare style transfer due to a low average content score. This is because the style transfer dataset may not have similar words in the training set of sentences, leading to a need to expand the style transfer dataset for a better representation of the poem data."
+}

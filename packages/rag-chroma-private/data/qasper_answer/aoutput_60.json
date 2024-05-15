@@ -1,0 +1,3 @@
+{
+    "answer": "The quality of the data is empirically evaluated through various methods, including manual inspection of translations with low scores, measuring perplexity of translations using a language model trained on clean monolingual data, computing the ratio of English characters in the translations, and calculating similarity scores between transcripts and translations using LASER cross-lingual sentence embeddings. Samples with low scores or ratios are manually inspected and sent back for translation when needed."
+}

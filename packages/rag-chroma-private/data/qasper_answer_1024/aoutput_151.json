@@ -1,0 +1,3 @@
+{
+    "answer": "Weights are dynamically adjusted by associating each training example with a weight in proportion to $(1-p)$, where $p$ represents the probability. This weight changes as training proceeds, with the goal of pushing down the weight of easy examples and making the model focus less on them."
+}

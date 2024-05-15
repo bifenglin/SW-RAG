@@ -1,0 +1,3 @@
+{
+    "answer": "Gaussian-masked directional multi-head attention works by using a Gaussian weight matrix to capture the localness relationship between characters based on their distances. This weight matrix is combined with the score matrix produced by $Q{K^{T}} using a Hadamard product to adjust the attention weights between characters. This attention mechanism focuses more on the relationship between adjacent characters, allowing for better capturing of directional information and improving performance in tasks like Chinese word segmentation."
+}

@@ -1,0 +1,3 @@
+{
+    "answer": "The models used in the experiment are a linear SVM, a bidirectional Long Short-Term-Memory (BiLSTM) model, and a Convolutional Neural Network (CNN) model."
+}

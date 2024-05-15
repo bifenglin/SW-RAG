@@ -1,0 +1,3 @@
+{
+    "answer": "Yes, they use pretrained embeddings as mentioned in the context: \"We initialized the embeddings of these words with 300 dimensional Glove embeddings.\""
+}

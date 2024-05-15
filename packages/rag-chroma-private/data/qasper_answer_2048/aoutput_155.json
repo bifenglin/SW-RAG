@@ -1,0 +1,3 @@
+{
+    "answer": "A semi-character architecture is a model that processes a sentence of words with misspelled characters, predicting the correct words at each step. It involves representing each input word by concatenating a one-hot vector of the first character, a one-hot representation of the last character, and a bag of characters representation of the internal characters. The model then feeds each word into a BiLSTM cell for processing."
+}

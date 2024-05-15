@@ -1,0 +1,3 @@
+{
+    "answer": "The baselines used for evaluation are Pointer-Gen, Pointer-Gen+Pos, and Pointer-Gen+Same-FT."
+}

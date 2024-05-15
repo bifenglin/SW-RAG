@@ -1,0 +1,3 @@
+{
+    "answer": "Masking words in the decoder is helpful because it allows the decoder to predict the refined word one-by-one, using the ability of the contextual language model. This process helps improve the naturalness of the generated sequence and makes good use of BERT's context modeling ability."
+}

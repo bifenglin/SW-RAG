@@ -1,0 +1,3 @@
+{
+    "answer": "The tasks used for evaluation include analyzing the syntactic abilities of the Transformer self-attention, extracting dependency relations from attention weights, studying the roles of each head in self-attention (positional, syntactic, rare words), and exploring the learned internal mechanics of the self-attention heads in the sparse adaptive Transformer model."
+}

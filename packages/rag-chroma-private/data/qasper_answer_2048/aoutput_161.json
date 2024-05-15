@@ -1,0 +1,3 @@
+{
+    "answer": "Masking words in the decoder is helpful because it allows the decoder to concentrate on one word at a time, based on the source document as well as other words. This process is similar to the cloze task in BERT's pre-training process, enabling the decoder to generate more fluent and natural sequences by utilizing the ability of the contextual language model."
+}

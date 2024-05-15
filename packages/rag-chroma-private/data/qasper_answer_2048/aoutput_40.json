@@ -1,0 +1,3 @@
+{
+    "answer": "The human judgements were assembled by a group of 50 native people who were proficient in both English and Tamil languages acting as annotators. They evaluated adequacy, precision, and ranking values of the translation results from RNNMorph and RNNSearch models. The evaluation included a collection of about 100 sentences taken from the test set results, with a randomized selection to ensure objectivity. The results were tabulated based on adequacy and fluency ratings on a 5-point scale, and the translations were ranked between each other for comparison. The intra-annotator values for these metrics were computed to determine the human evaluation Kappa co-efficient results."
+}

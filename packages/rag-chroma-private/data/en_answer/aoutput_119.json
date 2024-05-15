@@ -1,0 +1,3 @@
+{
+    "answer": "The correct expression for the derivative of the function is:\n\n\\[ f'\\left(x\\right) = \\lim_{h\\rightarrow0}{\\frac{f\\left(x+h\\right)-f\\left(x\\right)}{h}} \\]"
+}

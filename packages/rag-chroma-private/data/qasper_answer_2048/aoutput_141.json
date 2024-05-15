@@ -1,0 +1,3 @@
+{
+    "answer": "The improvement gained from Adversarial Reward Augmented Maximum Likelihood (ARAML) is significant, as it performs better than other baselines in all cases, providing stable rewards for the generator and significantly enhancing performance in both grammaticality and relevance metrics."
+}

@@ -1,0 +1,3 @@
+{
+    "answer": "The models used for painting embedding are a CNN-RNN based image-to-poem net combined with a seq2seq model with a parallel text corpus. For language style transfer, a model using generative adversarial networks (GANs) is employed."
+}

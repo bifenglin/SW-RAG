@@ -1,0 +1,3 @@
+{
+    "answer": "An individual model consists of Bayesian models for each language and crosslingual latent variables to incorporate soft role agreement between aligned constituents."
+}

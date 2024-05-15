@@ -1,0 +1,3 @@
+{
+    "answer": "The baselines for the Jasper architecture were layer norm with GAU, layer norm with ReLU, and batch norm with ReLU."
+}

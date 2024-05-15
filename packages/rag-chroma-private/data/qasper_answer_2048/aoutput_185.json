@@ -1,0 +1,3 @@
+{
+    "answer": "The hyperparameters that were varied in the experiments on the four tasks include the number of clusters across the three vector models used to induce the clusters, the number of classes for the classification task (10 classes, 1000 or 2000 classes), and the dimensionality and number of clusters for the skip-gram embeddings."
+}

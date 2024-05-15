@@ -1,0 +1,3 @@
+{
+    "answer": "The new context representation is obtained by using two contexts: one that combines the left context, left entity, and middle context; and another that combines the middle context, right entity, and right context. These two contexts are processed by two independent convolutional and max-pooling layers, and the results are concatenated to form the sentence representation."
+}

@@ -1,0 +1,3 @@
+{
+    "answer": "Based on the provided context, the datasets for sentiment analysis are not balanced. This is mentioned in the \"Conclusions and Future Work\" section where it states that in future work they will use a crowdworker-labeled dataset to train a new machine-learning based NLP system for tweet analysis and ensure that the training data is balanced among classes."
+}

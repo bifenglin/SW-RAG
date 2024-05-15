@@ -1,0 +1,3 @@
+{
+    "answer": "The three regularization terms are:\n1. A regularization term associated with neutral features\n2. The maximum entropy of class distribution regularization term\n3. The KL divergence between reference and predicted class distribution"
+}

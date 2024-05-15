@@ -1,0 +1,3 @@
+{
+    "answer": "The training sets of these versions of ELMo are much larger compared to the previous ones. The ELMo models for seven languages were trained on large monolingual corpora from various sources, with some corpora containing hundreds of millions of tokens. In contrast, the ELMoForManyLangs project used 20-million token corpora, which were significantly smaller."
+}

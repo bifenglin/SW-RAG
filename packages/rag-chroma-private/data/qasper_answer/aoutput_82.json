@@ -1,0 +1,3 @@
+{
+    "answer": "They obtain the new context representation by using two contexts: (1) a combination of the left context, the left entity, and the middle context; and (2) a combination of the middle context, the right entity, and the right context. This allows them to pay special attention to the middle context while still considering the information from the other regions."
+}

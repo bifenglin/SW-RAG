@@ -1,0 +1,3 @@
+{
+    "answer": "The LSTM-CRF architecture with features (polarity, POS, and NER) in row II performs the best by itself."
+}

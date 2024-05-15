@@ -1,0 +1,3 @@
+{
+    "answer": "The baselines were normalization and activation methods such as batch norm, weight norm, layer norm, rectified linear units (ReLU, clipped ReLU, leaky ReLU), gated linear units (GLU), and gated activation units (GAU)."
+}

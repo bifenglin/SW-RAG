@@ -1,0 +1,3 @@
+{
+    "answer": "The improvement in performance for Estonian in the NER task is substantial with ELMo embeddings compared to the non-contextual fastText baseline."
+}

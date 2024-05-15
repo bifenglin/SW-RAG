@@ -1,0 +1,3 @@
+{
+    "answer": "The baselines mentioned in the context are:\n1) Vanilla ST baseline\n2) Pre-training baselines\n3) Multi-task baselines\n4) Many-to-many+pre-training\n5) Triangle+pre-train"
+}
