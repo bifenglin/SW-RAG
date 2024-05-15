@@ -32,7 +32,7 @@ class DynamicSizeDynamicStepSplitter(TextSplitter):
             is_separator_regex: bool = False, window_size: int = 100, step_size: int = 50, **kwargs: Any):
         """Initialize the splitter with a list of separators and options."""
         super().__init__(keep_separator=keep_separator, **kwargs)
-        self._separators = separators or ["\n\n", "\n", " ", "", ".", "。", "!"]
+        self._separators = separators or ["\n\n", "\n", " ", "", ".", "。", ",", "，", ":", "：", ";", "；", "?", "？", "!", "！", "。", ".", "…", "..."]
         self._is_separator_regex = is_separator_regex
         self._window_size = window_size
         self._step_size = step_size
