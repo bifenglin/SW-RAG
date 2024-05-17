@@ -1,0 +1,3 @@
+{
+    "answer": "The proposed approach in this research paper is a novel LMS algorithm with adaptable step size that emerges naturally through a probabilistic model. This approach is suitable for both stationary and non-stationary environments and has less free parameters than previous LMS algorithms with variable step size. Additionally, the use of a probabilistic model provides an estimate of the error variance, which is useful in many applications."
+}
