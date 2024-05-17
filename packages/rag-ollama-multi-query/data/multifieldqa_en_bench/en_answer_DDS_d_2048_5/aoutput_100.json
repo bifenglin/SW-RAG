@@ -1,0 +1,3 @@
+{
+    "answer": "Using binary variables in the SLAS formulation helps reduce computational overload, making the optimization problem more efficient. This reformulation with binary variables replaces integer variables and improves computational complexity. Additionally, binary variables aid in finding feasible solutions quicker, allowing the optimizer to quickly find an initially feasible solution in the vicinity of the reference solution. Lazy implementation of lane changing constraints further enhances computational efficiency by finding a set of feasible solutions without including these constraints initially."
+}

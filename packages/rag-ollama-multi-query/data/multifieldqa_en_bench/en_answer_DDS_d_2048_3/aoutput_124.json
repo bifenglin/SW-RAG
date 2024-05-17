@@ -1,0 +1,3 @@
+{
+    "answer": "The effect of accounting for path preference on the robot's belief update is that it prevents the robot from becoming overconfident in incorrect beliefs about the user's preferences. By updating the belief representation over the human's preference and adapting to indications by replanning online, the robot can make effective navigation decisions in collaboration with a human, even when the goal and path preference are not known in advance. This leads to improved system performance and higher success rates compared to baseline approaches when the human inputs are sparse."
+}

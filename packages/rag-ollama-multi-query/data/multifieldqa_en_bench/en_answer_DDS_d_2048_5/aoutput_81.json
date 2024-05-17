@@ -1,0 +1,3 @@
+{
+    "answer": "The media application determines the context of an event by using a content-recognition module or algorithm. This module may use object recognition techniques, speech recognition techniques, and other methods to analyze data associated with the event in a media asset. By processing various types of data, including textual and visual data, the content-recognition module determines the circumstances or facts surrounding the event that influence or affect its meaning."
+}

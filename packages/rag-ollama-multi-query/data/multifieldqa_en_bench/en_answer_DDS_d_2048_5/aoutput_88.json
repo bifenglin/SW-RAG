@@ -1,0 +1,3 @@
+{
+    "answer": "The proposed approach in this research paper is to provide a probabilistic interpretation of the least-mean-square filter and develop an adaptable step-size LMS algorithm based on approximating the posterior distribution with an isotropic Gaussian distribution. This algorithm is designed to perform well in both stationary and tracking scenarios, with fewer free parameters compared to previous approaches and clear physical meanings for the parameters involved."
+}

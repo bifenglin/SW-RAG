@@ -1,0 +1,3 @@
+{
+    "answer": "The function beta(r) is determined by using the simplified form of the vacuum Einstein equations, specifically the equation that states that the second derivative of the volume of a test ball with respect to proper time is equal to zero. This equation is used in conjunction with the motion of particles in a small region of space to determine the function beta(r). The integration of the equation leads to the final form of beta(r) as sqrt(2GM/(rc^2))."
+}

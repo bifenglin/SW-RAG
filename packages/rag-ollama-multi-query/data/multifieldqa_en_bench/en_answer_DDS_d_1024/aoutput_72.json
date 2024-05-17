@@ -1,0 +1,3 @@
+{
+    "answer": "NFPA and FPSA both outperformed GMRES and DSA in terms of runtimes and iteration counts in the numerical experiments. NFPA and FPSA showed significant improvements in runtime and required fewer iterations compared to GMRES and DSA for all cases tested with different scattering kernels. The runtime and iteration counts for NFPA and FPSA were similar, with NFPA even outperforming FPSA in iteration count for some cases. Overall, NFPA and FPSA were more efficient and effective in accelerating convergence compared to GMRES and DSA."
+}

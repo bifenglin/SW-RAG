@@ -1,0 +1,3 @@
+{
+    "answer": "The function beta(r) is determined in the derivation by using the vacuum Einstein equations in a simplified form, specifically the Baez-Bunn version of the equations. This involves considering a test ball of freely floating particles and applying the condition that the second time derivative of the volume of the test ball with respect to local proper time is zero. By analyzing the motion of these test particles in a locally flat free-fall system, the function beta(r) is obtained by satisfying the differential equation derived from the vacuum Einstein equations. The integration of this equation leads to the final form of beta(r) which is used in the metric calculation."
+}

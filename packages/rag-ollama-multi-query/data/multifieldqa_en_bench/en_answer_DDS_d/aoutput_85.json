@@ -1,0 +1,3 @@
+{
+    "answer": "The scoring engine generates a stream of content for the channel by querying new content items based on the channel category and other channel attributes. It retrieves candidate content items that include the channel category and the other channel attribute. The scoring engine then scores the candidate content items by comparing them to the model generated for the user and generates a stream of content from these scored candidate content items for the channel."
+}

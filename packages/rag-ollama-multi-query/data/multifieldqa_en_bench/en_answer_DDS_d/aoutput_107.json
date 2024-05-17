@@ -1,0 +1,3 @@
+{
+    "answer": "The framework captures the reduced-order dynamics by employing a propagator in the latent space to capture the reduced-order dynamics of the system. This approach uses complex-valued latent variables treated independently, allowing for interpretable latent dynamics and a model suitable for training in the Small Data regime. The latent variables are evolved using continuous ODEs in the complex plane, where the real part represents growth and decay, and the imaginary part represents periodic components. This method allows for the identification of the individual processes that decompose a system of linear ODEs along the eigenvectors of the system's matrix, providing a unified approach to dimensionality reduction and the discovery of reduced dynamics."
+}

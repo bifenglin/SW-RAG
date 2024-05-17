@@ -1,0 +1,3 @@
+{
+    "answer": "The relationship between the maximum velocity and the amplitude of the blob or depletion is described by a theoretical model that predicts the velocity scaling. For small amplitudes, the velocity scales linearly with the amplitude, while for larger amplitudes there is a transition to a square root scaling. Beyond a certain critical amplitude, the velocities of compressible and incompressible blobs or depletions align. This theoretical prediction is verified by numerical simulations over a range of amplitudes relevant in magnetic fusion devices."
+}

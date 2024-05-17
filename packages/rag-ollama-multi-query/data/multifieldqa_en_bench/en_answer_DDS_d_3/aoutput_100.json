@@ -1,0 +1,3 @@
+{
+    "answer": "Using binary variables in the SLAS formulation helps reduce computational complexity. This allows for faster computation times, making the approach more suitable for real-time applications. Additionally, the use of binary variables can improve the feasibility and efficiency of the optimization problem, making it easier to find an initially feasible solution and recursively update it."
+}

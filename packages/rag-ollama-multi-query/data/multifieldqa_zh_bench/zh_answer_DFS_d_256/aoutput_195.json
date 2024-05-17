@@ -1,0 +1,3 @@
+{
+    "answer": "To read the gripper's gripping status, you need to send the following command:\nDevice address, function code, register start address, register content, and CRC checksum code.\nThe command to read the gripping status is: 01 03 (HEX) 00 41 00 01 D4 1E\nThe response to this command will be: 01 03 02 00 00 B8 44\nIn the response, \"00 00\" indicates the gripping status, where:\n- 0: Indicates that the gripper is in place\n- 1: Indicates that the gripper is in motion\n- 2: Indicates that the gripper is gripping\n- 3: Indicates that the gripper has dropped."
+}

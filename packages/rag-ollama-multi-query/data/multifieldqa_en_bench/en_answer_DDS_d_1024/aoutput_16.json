@@ -1,0 +1,3 @@
+{
+    "answer": "The main methodology used in the research is based on emergent communication and the information bottleneck. The research proposes an unsupervised method that captures both referential complexity and task-specific utility to explore sparse social communication scenarios in multi-agent reinforcement learning (MARL). The methodology involves developing a natural-language-inspired lexicon of messages composed of emergent concepts, aligning action policies of heterogeneous agents, and learning a communication policy through a process called 'social shadowing'. The method also utilizes contrastive learning to increase representation similarity with future goals and optimize the Q-function for messages."
+}

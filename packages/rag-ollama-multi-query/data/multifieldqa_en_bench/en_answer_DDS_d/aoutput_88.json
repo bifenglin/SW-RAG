@@ -1,0 +1,3 @@
+{
+    "answer": "The proposed approach in this research paper is a probabilistic interpretation of the least-mean-square (LMS) filter. The resulting algorithm is an adaptable step-size LMS that performs well in both stationary and tracking scenarios. It has fewer free parameters than previous approaches, and these parameters have a clear physical meaning."
+}

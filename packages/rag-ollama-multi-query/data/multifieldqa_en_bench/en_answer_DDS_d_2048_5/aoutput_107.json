@@ -1,0 +1,3 @@
+{
+    "answer": "The framework captures the reduced-order dynamics by using a data-driven scheme that automates the identification of the time-scales involved. It combines a non-linear autoencoder architecture with a time-continuous model for the latent dynamics in the complex space. This approach allows for the inclusion of sparse and irregularly sampled training data. The learned, latent dynamics are interpretable and reveal the different temporal scales involved. The method automatically learns the independent processes that decompose a system of linear ODEs along the eigenvectors of the system's matrix, making the reduced-order model interpretable and efficient for long-term predictions under different initial conditions."
+}
