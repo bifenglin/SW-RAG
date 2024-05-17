@@ -1,0 +1,3 @@
+{
+    "answer": "The proposed approach in this research paper is a probabilistic interpretation of the least-mean-square filter, resulting in an adaptable step-size LMS that performs well in stationary and tracking scenarios with fewer free parameters. This approach opens the door to introduce more Bayesian machine learning techniques, such as variational inference and Monte Carlo sampling methods, to adaptive filtering."
+}

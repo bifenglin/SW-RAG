@@ -1,0 +1,3 @@
+{
+    "answer": "Based on the provided context, the security parameter for the AES-256 block cipher is not explicitly mentioned. The context only mentions the security parameters for AES-128, which would require over $2^{80}$ parallel quantum searches to break in a year."
+}

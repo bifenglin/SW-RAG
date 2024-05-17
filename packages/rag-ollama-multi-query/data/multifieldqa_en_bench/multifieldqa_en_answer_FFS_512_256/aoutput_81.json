@@ -1,0 +1,3 @@
+{
+    "answer": "A media application may use multiple types of content-recognition modules and/or algorithms to determine the context of an event. It may process data associated with the event, cross-reference the data in a database indicating different contexts the event may have, and distribute itemized tasks to multiple users to generate supplemental information about the event."
+}
