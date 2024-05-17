@@ -1,3 +1,0 @@
-{
-    "answer": "The framework captures the reduced-order dynamics by using a complex-valued latent space with continuous dynamics and requiring only one scalar variable per latent dimension to describe the latent space dynamics. This approach does not enforce any parametrizations on the Koopman matrix and allows for the incorporation of sparse and irregularly sampled training data. Linear and non-linear autoencoders are used to map high-dimensional time-series data to a lower-dimensional, interpretable latent representation, optimizing a combined loss function to identify both the autoencoder and latent dynamics simultaneously."
-}
