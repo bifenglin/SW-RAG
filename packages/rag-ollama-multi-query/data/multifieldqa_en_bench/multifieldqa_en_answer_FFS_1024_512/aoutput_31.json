@@ -1,0 +1,3 @@
+{
+    "answer": "The authors used zero-mean Gaussian vectors with an identity covariance matrix as regressors, and real data of a wireless MISO channel acquired in a realistic indoor scenario in their experiments."
+}

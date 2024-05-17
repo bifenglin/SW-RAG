@@ -1,0 +1,3 @@
+{
+    "answer": "The proposed approach in this research paper is to provide a connection between state-space models and least-mean-squares (LMS) by approximating the posterior distribution with an isotropic Gaussian distribution. This approximation leads to a linear-complexity algorithm, comparable to the standard LMS, making it suitable for both stationary and non-stationary environments."
+}

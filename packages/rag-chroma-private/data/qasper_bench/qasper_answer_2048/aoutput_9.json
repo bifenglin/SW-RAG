@@ -1,0 +1,3 @@
+{
+    "answer": "Their ensemble method works by starting with the best performing model according to validation performance and then gradually adding the best performing models that have not been previously tried. In each step, they try adding a new model to the ensemble and keep it if it improves validation performance, discarding it otherwise. This process continues until they have selected a total of 5 models for the final ensemble. This method is referred to as a greedy ensemble."
+}

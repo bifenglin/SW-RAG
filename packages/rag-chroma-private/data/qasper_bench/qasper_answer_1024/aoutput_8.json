@@ -1,0 +1,3 @@
+{
+    "answer": "This approach proposes to obtain multi-sense word embedding distributions using a variant of max margin objective based on the asymmetric KL divergence energy function to capture textual entailment. It aims to handle polysemous words by distributing uncertainty across senses and considers both textual entailment and symmetrical similarity between words. This approach differs from other WSD approaches employing word embeddings by specifically addressing polysemous words, considering entailment relations among words, and using a KL divergence approximation based on stricter upper and lower bounds for computing multi-sense distributions."
+}

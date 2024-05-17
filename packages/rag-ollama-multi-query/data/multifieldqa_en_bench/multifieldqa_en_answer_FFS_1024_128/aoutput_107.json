@@ -1,0 +1,3 @@
+{
+    "answer": "The framework captures the reduced-order dynamics by using interpretable latent dynamics that hierarchically decompose the dynamics into pertinent scales, promoting the discovery of slow processes that control the system's evolution over long time horizons."
+}

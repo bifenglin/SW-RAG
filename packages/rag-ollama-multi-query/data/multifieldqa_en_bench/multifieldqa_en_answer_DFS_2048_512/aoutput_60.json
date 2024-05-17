@@ -1,0 +1,3 @@
+{
+    "answer": "The performance of the PLM method with decimation is superior to other methods, as it is able to clearly infer the network of interaction even when the sample size is equal (M=N) and can be considered in the under-sampling regime (M<N). The reconstruction error obtained with the PLM method with decimation is always smaller than that obtained with other techniques, several times smaller in fact. Additionally, the PLM method with decimation outperforms other methods in terms of network reconstruction and inference quality, especially in cases where the underlying interaction network is sparse."
+}

@@ -1,0 +1,3 @@
+{
+    "answer": "The transformer layer works better on top of BERT, as evidenced by the performance of ToBERT outperforming RoBERT in the experiments conducted."
+}

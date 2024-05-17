@@ -1,0 +1,3 @@
+{
+    "answer": "An individual model consists of copies of the monolingual model for each language, with additional crosslingual latent variables (CLVs) to capture crosslingual semantic role patterns."
+}

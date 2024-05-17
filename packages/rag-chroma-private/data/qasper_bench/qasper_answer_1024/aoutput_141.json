@@ -1,0 +1,3 @@
+{
+    "answer": "ARAML provides significant improvement over other baselines in all cases, as shown in Table TABREF35. This indicates that the samples surrounding true responses provide stable rewards for the generator, and the stable RAML training paradigm enhances performance in both metrics."
+}

@@ -1,0 +1,3 @@
+{
+    "answer": "The baselines are the models used for comparison in the study, including SVM with different features, CNN, RCNN, and UTCNN with various configurations."
+}

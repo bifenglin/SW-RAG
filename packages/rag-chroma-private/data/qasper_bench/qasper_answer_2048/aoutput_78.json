@@ -1,0 +1,3 @@
+{
+    "answer": "For painting embedding, the models used are three parallel CNNs: an object CNN, sentiment CNN, and scene CNN, along with a skip-thought model. For language style transfer, the models used are a sequence-to-sequence model trained by policy gradient with two discriminator networks for rewards."
+}

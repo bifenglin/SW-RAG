@@ -1,0 +1,3 @@
+{
+    "answer": "The encoder architecture includes encoding the entire context with a forward LSTM for the past context and a backward LSTM for the future context."
+}

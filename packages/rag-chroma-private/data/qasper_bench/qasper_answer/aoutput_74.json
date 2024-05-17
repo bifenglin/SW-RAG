@@ -1,0 +1,3 @@
+{
+    "answer": "The paper explores embedding techniques such as integrating semantic similarity and relatedness values, learning word, phrase, and sentence embeddings from structured corpora, training on pair-wise values of semantic similarity, and using the Skip-gram approach."
+}

@@ -1,0 +1,3 @@
+{
+    "answer": "The GhostVLAD approach is an extension of the NetVLAD approach, where Ghost clusters are added along with the NetVLAD clusters. These Ghost clusters are used to map noisy or irrelevant content and are not included during the feature aggregation stage. This helps in assigning less weight to noisy and unwanted features in the normal VLAD clusters, while the Ghost clusters absorb most of the weight."
+}

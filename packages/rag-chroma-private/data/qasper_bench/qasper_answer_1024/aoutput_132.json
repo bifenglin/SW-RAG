@@ -1,0 +1,3 @@
+{
+    "answer": "The models they experimented with include 2-layer or 3-layer CAS-LSTM models with different components and variations such as plain stacked LSTMs, models with different configurations, and models that integrate lower contexts via peephole connections."
+}

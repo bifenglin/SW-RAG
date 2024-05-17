@@ -1,0 +1,3 @@
+{
+    "answer": "They use the pre-trained uncased BERT$_\\\\mathrm {BASE}$ model for fine-tuning, as they found that the BERT$_\\\\mathrm {LARGE}$ model performs slightly worse in this task."
+}

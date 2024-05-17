@@ -1,0 +1,3 @@
+{
+    "answer": "The baseline used was AdaDelta BIBREF15 for calculating an adaptive learning rate during training."
+}

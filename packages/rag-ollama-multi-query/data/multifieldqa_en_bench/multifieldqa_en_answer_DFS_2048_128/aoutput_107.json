@@ -1,0 +1,3 @@
+{
+    "answer": "The framework captures the reduced-order dynamics by using a complex-valued latent space with linear and non-linear autoencoders to map high-dimensional time series data to a lower-dimensional, interpretable latent representation. This approach unifies the tasks of dimensionality reduction and discovery of reduced dynamics, allowing for the identification of the autoencoder as well as the latent dynamics through optimization of a combined loss function. The framework also incorporates sparse and irregularly sampled training data, allowing for fast generation of predictions after the training phase."
+}

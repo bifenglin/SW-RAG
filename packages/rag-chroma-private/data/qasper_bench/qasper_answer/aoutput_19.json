@@ -1,0 +1,3 @@
+{
+    "answer": "The baselines are: \n1) SVM with unigram, bigram, and trigram features\n2) SVM with average word embedding\n3) SVM with average transformed word embeddings"
+}

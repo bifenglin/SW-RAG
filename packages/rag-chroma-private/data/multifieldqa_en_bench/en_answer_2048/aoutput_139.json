@@ -1,0 +1,3 @@
+{
+    "answer": "The potential of Spiking Neural Networks (SNNs) in modeling the visual system lies in their capabilities of encoding information with spikes, capturing the dynamics of biological neurons, and extracting spatio-temporal features. They are highly possible to yield brain-like representations and serve as a shortcut to explore the biological visual cortex, shedding light on visual processing mechanisms in both macaques and mice. Additionally, SNNs have shown to outperform Convolutional Neural Networks (CNNs) in various experiments, indicating their potential as a novel and powerful tool for research on the visual system."
+}

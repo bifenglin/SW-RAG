@@ -1,0 +1,3 @@
+{
+    "answer": "The proposed evaluation for this task involves obtaining importance annotations for propositions using a crowdsourcing scheme, with workers not required to read all documents, making the annotation process more efficient and scalable compared to traditional methods. The evaluation includes Likert-scale tasks assigned to five workers, pairwise comparisons, reliability studies, and extrinsic evaluation in the task of summary evaluation."
+}

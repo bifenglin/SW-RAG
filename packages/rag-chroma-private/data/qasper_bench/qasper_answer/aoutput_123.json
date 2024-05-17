@@ -1,0 +1,3 @@
+{
+    "answer": "The authors define the robustness of a model by proposing three regularization terms on top of generalized expectation criteria to leverage prior knowledge effectively. They demonstrate through experimental results that taking these factors into account considerably improves performance and makes the model more effective and robust against baselines. Their approach aims to reduce the sensitivity of prior knowledge and make the model more practical."
+}

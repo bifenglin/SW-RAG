@@ -1,0 +1,3 @@
+{
+    "answer": "The performance of the PLM with decimation method is very precise for problems with sparse underlying interaction networks, where the number of couplings per variable does not scale with the number of variables. It is compared to the PLM with regularization method and a mean-field-based method, and it is able to infer the network of interaction even in under-sampling regimes. Additionally, the reconstruction error obtained with the PLM+decimation method is always smaller than that obtained with other methods for all temperatures and sample sizes."
+}

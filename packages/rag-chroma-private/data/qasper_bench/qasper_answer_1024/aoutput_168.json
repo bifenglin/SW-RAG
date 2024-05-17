@@ -1,0 +1,3 @@
+{
+    "answer": "The baseline for the SLC task was a simple logistic regression classifier with default parameters, where the input instances were represented by a single feature: the length of the sentence."
+}

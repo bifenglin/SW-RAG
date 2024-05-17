@@ -1,0 +1,3 @@
+{
+    "answer": "The benefits of using binary variables in the SLAS formulation are computational complexity reduction, optimization warm start technique, and lazy constraint implementation, all of which combine to improve the computational complexity of the SLAS module."
+}

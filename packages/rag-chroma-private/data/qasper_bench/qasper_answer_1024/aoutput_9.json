@@ -1,0 +1,3 @@
+{
+    "answer": "The ensemble method used by the researchers involved starting with the best performing model according to validation performance and then gradually trying each model once by adding the best performing model that had not been previously tried. If a model improved validation performance, it was kept in the ensemble, otherwise it was discarded. This process resulted in a greedy ensemble. The algorithm was offered 10 models and selected 5 of them for the final ensemble. The ensembles were formed by averaging the predictions from the constituent single models."
+}

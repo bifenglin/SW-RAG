@@ -1,0 +1,3 @@
+{
+    "answer": "Gaussian-masked directional multi-head attention works by utilizing a variant of multi-head self-attention with a Gaussian-masked directional encoder to capture representation of different directions. This helps improve the ability to capture localness information and position information for the importance of adjacent characters. The attention mechanism focuses on adjacent characters at each position and establishes a fixed Gaussian weight for attention based on the distance between characters."
+}

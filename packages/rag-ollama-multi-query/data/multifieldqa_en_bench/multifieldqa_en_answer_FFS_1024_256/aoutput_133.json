@@ -1,0 +1,3 @@
+{
+    "answer": "The advantage of decorrelating the data before running the PLS algorithm is that it improves the performance of the algorithm, as shown by Singer et al. It leads to a standard linear regression with independent errors and helps in estimating the covariance structure of the data."
+}

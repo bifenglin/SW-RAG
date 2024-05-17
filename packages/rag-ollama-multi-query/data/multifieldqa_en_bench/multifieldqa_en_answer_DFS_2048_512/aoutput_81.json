@@ -1,0 +1,3 @@
+{
+    "answer": "A media application determines the context of an event by using a content-recognition module or algorithm to analyze the words spoken and/or actions during the event, as well as the words and/or actions before and/or after the event. The media application may also cross-reference the information obtained with a database to determine relationships between words and other information, such as identifying the author of the statement, the tone of the statement, and any other conditions that may alter the connotation of the statement."
+}

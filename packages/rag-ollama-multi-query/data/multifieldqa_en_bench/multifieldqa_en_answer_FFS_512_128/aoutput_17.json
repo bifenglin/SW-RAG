@@ -1,0 +1,3 @@
+{
+    "answer": "The function beta(r) is determined by solving the differential equation beta(r) * beta'(r) = C / r^2 and integrating the result."
+}

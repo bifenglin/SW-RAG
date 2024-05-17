@@ -1,0 +1,3 @@
+{
+    "answer": "The receptive field size has a direct impact on the completion of shapes. The experiment results showed that models with bigger receptive field sizes were able to complete shapes with bigger gaps more effectively. As the receptive field size increased, the algorithm was able to reconstruct more complete shapes using Deep Structural Priors (DSP)."
+}

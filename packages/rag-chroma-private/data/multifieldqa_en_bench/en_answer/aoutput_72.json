@@ -1,0 +1,3 @@
+{
+    "answer": "NFPA and FPSA greatly outperform GMRES and DSA in terms of runtime and iteration counts in the numerical experiments. They require less time and fewer iterations compared to GMRES and DSA for all cases by orders of magnitude."
+}

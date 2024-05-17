@@ -1,0 +1,3 @@
+{
+    "answer": "The main advantage of the proposed method in terms of computation time is that the time required to update the robot's belief does not increase with the complexity of the environment, highlighting the practicality of the method."
+}

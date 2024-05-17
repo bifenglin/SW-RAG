@@ -1,0 +1,3 @@
+{
+    "answer": "The proposed approach in this research paper is based on approximating the posterior distribution with an isotropic Gaussian distribution, leading to a linear-complexity algorithm comparable to the standard LMS."
+}

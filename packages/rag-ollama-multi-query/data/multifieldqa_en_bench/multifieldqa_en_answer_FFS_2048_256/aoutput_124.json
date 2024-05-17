@@ -1,0 +1,3 @@
+{
+    "answer": "Accounting for path preference on the robot's belief update results in a more steady decrease in entropy over the goal distribution, allowing the robot to leverage the human's latest observations and reach the goal successfully. This contrasts with the goal-only method, which can lead to overconfidence in incorrect predictions and make it more difficult to reach the correct goal."
+}

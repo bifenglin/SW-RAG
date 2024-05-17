@@ -1,0 +1,3 @@
+{
+    "answer": "The models used for painting embedding are neural networks with sequence-to-sequence models. The models used for language style transfer are generative adversarial networks (GANs) and a sequence-to-sequence model over a parallel text corpus."
+}

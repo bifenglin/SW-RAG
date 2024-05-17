@@ -1,0 +1,3 @@
+{
+    "answer": "The additional features proposed are text sequences of context tweets directly used as an additional feature of neural network models. The context tweets are converted to vectors and concatenated with the outputs of their corresponding labeled tweets. Specifically, max-pooled layers of context and labeled tweets are concatenated for the CNN baseline model, and the last hidden states of context and labeled tweets are concatenated for the RNN model. This approach aims to improve the detection of abusive language by considering the contextual information provided by the context tweets."
+}

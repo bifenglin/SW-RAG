@@ -1,0 +1,3 @@
+{
+    "answer": "The performance of the PLM with decimation is better than other methods, as the reconstruction error obtained with the PLM+decimation is always smaller than the error obtained with other techniques. The PLM with decimation is more precise, especially for problems with a sparse underlying interaction network."
+}

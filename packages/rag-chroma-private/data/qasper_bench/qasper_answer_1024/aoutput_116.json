@@ -1,0 +1,3 @@
+{
+    "answer": "They used the high-quality datasets released by the challenge organizers for the SemEval-2016 \"Sentiment Analysis in Twitter\" task. The dataset for fine-grained classification is split into training, development, development_test, and test parts."
+}

@@ -1,0 +1,3 @@
+{
+    "answer": "Accounting for path preference on the robot's belief update helps decrease belief entropy more steadily, allowing the robot to leverage human observations and reach the goal successfully."
+}

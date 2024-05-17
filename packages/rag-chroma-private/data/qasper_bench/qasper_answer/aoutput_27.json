@@ -1,0 +1,3 @@
+{
+    "answer": "Based on the provided context, WordNet is indeed useful for taxonomic reasoning for this task. The methodology described in the text utilizes WordNet, a comprehensive lexical ontology, for probing state-of-the-art transformer models in the domain of science MCQA. Additionally, the document mentions that WordNet contains ISA links to other synsets that express complex taxonomic relations, which further supports the usefulness of WordNet for taxonomic reasoning in this task."
+}

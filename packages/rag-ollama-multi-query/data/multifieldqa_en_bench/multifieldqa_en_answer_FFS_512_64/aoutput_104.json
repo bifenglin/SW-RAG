@@ -1,0 +1,3 @@
+{
+    "answer": "Smartphones are far more compact and power constrained compared to tablets. Smartphone SoCs are limited to around 1W, both by batteries and by thermal dissipation. Additionally, smartphones require a cellular modem as an absolute necessity for connectivity. Tablets, on the other hand, eschew cellular modems, allowing for faster time to market, and are more commonly sold directly to consumers rather than through carriers."
+}

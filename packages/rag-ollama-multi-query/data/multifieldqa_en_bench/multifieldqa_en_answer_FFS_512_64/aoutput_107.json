@@ -1,0 +1,3 @@
+{
+    "answer": "The framework captures reduced-order dynamics by only needing the value of observables (not their derivatives) as training data and identifying interpretable latent dynamics. This ensures conservation of important properties and allows for hierarchically decomposing the dynamics into pertinent scales, discovering slow processes that control the system's evolution over long time horizons."
+}

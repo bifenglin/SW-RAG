@@ -1,0 +1,3 @@
+{
+    "answer": "Yes, the automatically constructed datasets are subject to quality control as mentioned in the context. The text discusses the importance of ensuring that systematic biases are not introduced into the resulting probes and that the target datasets are sufficiently challenging. It also mentions using baseline models to test for these biases and challenges in the datasets."
+}

@@ -1,0 +1,3 @@
+{
+    "answer": "The UTCNN model has multiple layers, including a maximum pooling layer after the user matrix embedding layer and user vector embedding layer, as well as layers for moderator matrix embedding, moderator vector embedding, joint topic matrix embedding, and joint topic vector embedding."
+}

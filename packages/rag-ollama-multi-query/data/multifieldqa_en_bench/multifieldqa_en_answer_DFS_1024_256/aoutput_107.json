@@ -1,0 +1,3 @@
+{
+    "answer": "The framework captures the reduced-order dynamics by using linear and non-linear autoencoders to map high-dimensional time-series data to a lower-dimensional, latent representation. This latent representation is capable of identifying interpretable dynamics that reflect important properties of the system, promoting the discovery of slow processes that control the system's evolution over long time horizons. The framework unifies the tasks of dimensionality reduction and discovery of reduced dynamics, ensuring that the reduced-order model accurately represents the system dynamics."
+}

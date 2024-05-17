@@ -1,0 +1,3 @@
+{
+    "answer": "The performance of the PLM with decimation is compared to the PLM with regularization and a mean-field-based method. The outcome suggests that the PLM with decimation has the best performance among the three methods, especially for problems with sparse interaction networks. Additionally, the identification of the number of decimated bonds where the tilted pseudo-likelihood is maximum allows for a precise estimate of the total number of bonds."
+}

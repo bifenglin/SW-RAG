@@ -1,0 +1,3 @@
+{
+    "answer": "The existing approaches mentioned in the context are using word embedding models to learn representations of Points-of-Interest (POIs) for predicting user visits. Some of the specific methods include utilizing the Skip-gram model to create a global pattern of users' POIs, training the CBOW model with POI data, and learning embeddings for spatio-temporal hotspots obtained from social media data."
+}

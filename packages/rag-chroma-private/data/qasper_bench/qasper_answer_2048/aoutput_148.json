@@ -1,0 +1,3 @@
+{
+    "answer": "The baselines used for evaluation are Pointer-Gen, Pointer-Gen-RL+ROUGE, Pointer-Gen-RL-SEN, and Pointer-Gen-ARL-SEN."
+}

@@ -1,0 +1,3 @@
+{
+    "answer": "To install and start Ganache, follow these steps:\n\n1. Download the installation package from the provided link.\n2. Install the program and open it. The program will display options to view accounts, blocks, transactions, and logs.\n3. Click on \"Settings\" and configure the IP, port (set to 8545), number of accounts, gas limit, etc. Click on \"restart\" for the settings to take effect.\n\nAfter completing these steps, Ganache will be running a private Ethereum network on your local machine, bound to port 8545."
+}

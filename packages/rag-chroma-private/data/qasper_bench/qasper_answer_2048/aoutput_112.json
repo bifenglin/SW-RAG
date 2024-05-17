@@ -1,0 +1,3 @@
+{
+    "answer": "Word subspace can represent the context of the corresponding text by efficiently comparing word vectors of each class in terms of similarity using canonical angles between the word subspaces."
+}

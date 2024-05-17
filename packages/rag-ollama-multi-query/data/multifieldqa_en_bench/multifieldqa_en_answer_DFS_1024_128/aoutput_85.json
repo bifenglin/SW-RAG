@@ -1,0 +1,3 @@
+{
+    "answer": "The scoring engine queries new content items based on the user-defined channel category and channel attribute, then generates a stream of content from the candidate content items for the channel."
+}

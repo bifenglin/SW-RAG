@@ -1,0 +1,3 @@
+{
+    "answer": "The method's improvements of F1 for NER task are +0.29 for English datasets (CoNLL2003 and OntoNotes5.0) and +0.97 for Chinese datasets (MSRA and OntoNotes4.0)."
+}

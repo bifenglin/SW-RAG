@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "SW-RAG"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+packages = [
+    { include = "app" },
+]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+uvicorn = "^0.23.2"
+langserve = {extras = ["server"], version = ">=0.0.30"}
+pydantic = "<2"
+rag-ollama-multi-query = {path = "packages/rag-ollama-multi-query", develop = true}
+rag-chroma-private = {path = "packages/rag-chroma-private", develop = true}
+
+
+[tool.poetry.group.dev.dependencies]
+langchain-cli = ">=0.0.15"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

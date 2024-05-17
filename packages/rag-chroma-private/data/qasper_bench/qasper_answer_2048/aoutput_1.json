@@ -1,0 +1,3 @@
+{
+    "answer": "The GhostVLAD approach is an extension of the NetVLAD approach proposed for face recognition by Y. Zhong. It works similarly to NetVLAD but adds Ghost clusters along with the NetVLAD clusters, resulting in a total of K+G clusters instead of just K clusters. Ghost clusters are used to map noisy or irrelevant content and are excluded during the feature aggregation stage. This helps assign less weight to noisy and unwanted features in normal VLAD clusters while Ghost clusters absorb most of the weight. The Ghost clusters are used during the computation of the V matrix but are excluded during the concatenation stage, and the concatenated features are fed into the projection layer for predicting the language label."
+}

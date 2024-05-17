@@ -1,0 +1,3 @@
+{
+    "answer": "The previous state of the art for this task was a logistic regression classifier with features inclusive of bag-of-words representation of the unigrams and thread length, normalised counts of agreements to previous posts, counts of non-lexical reference items such as URLs, and the Coursera forum type in which a thread appeared."
+}

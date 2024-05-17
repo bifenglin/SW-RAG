@@ -1,0 +1,3 @@
+{
+    "answer": "The dataset is annotated as either having no evidence of depression or evidence of depression. If a tweet is annotated as evidence of depression, it is further annotated with one or more depressive symptoms such as depressed mood, disturbed sleep, or fatigue."
+}

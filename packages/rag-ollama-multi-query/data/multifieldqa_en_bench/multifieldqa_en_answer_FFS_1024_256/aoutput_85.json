@@ -1,0 +1,3 @@
+{
+    "answer": "The scoring engine generates a stream of content for the channel by ranking new content items based on the user-defined channel category and channel attribute. It uses signals from different verticals to compute a global user-independent score for each item, approximating its popularity or importance within the stream."
+}

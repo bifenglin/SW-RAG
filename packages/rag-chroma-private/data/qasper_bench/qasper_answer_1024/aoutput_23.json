@@ -1,0 +1,3 @@
+{
+    "answer": "The metrics used for evaluation are XNLI test accuracy and performance in zero-shot cross-lingual transfer tasks, specifically natural language inference and universal dependency parsing."
+}

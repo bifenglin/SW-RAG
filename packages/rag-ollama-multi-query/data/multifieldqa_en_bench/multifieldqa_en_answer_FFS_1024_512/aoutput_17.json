@@ -1,0 +1,3 @@
+{
+    "answer": "The function beta(r) is determined by combining the proper time rate and coordinate speed of infalling observers in terms of r and t. By rescaling this function with the speed of light and giving it a negative sign to make it positive for infalling particles, the function beta(r) is defined as -1/c * dr/dT(r)."
+}

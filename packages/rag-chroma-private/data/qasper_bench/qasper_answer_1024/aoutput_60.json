@@ -1,0 +1,3 @@
+{
+    "answer": "The quality of the data is empirically evaluated through various methods such as computing sentence-level BLEU scores, manual inspection of translations, measuring perplexity, inspecting examples with identical source transcripts and translations, filtering samples based on sentence lengths, computing the ratio of English characters in translations, and calculating similarity scores between transcripts and translations."
+}

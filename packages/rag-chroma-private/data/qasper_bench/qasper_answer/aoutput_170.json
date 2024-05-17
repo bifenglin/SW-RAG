@@ -1,0 +1,3 @@
+{
+    "answer": "The political bias of different sources is included in the model by assigning a political bias label to different US outlets and news articles based on whether they are left-biased or right-biased. This allows the model to distinguish between mainstream news and disinformation regardless of the political bias."
+}

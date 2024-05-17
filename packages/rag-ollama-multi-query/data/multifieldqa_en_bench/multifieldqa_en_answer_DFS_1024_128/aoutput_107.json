@@ -1,0 +1,3 @@
+{
+    "answer": "The framework captures the reduced-order dynamics by using interpretable latent dynamics that ensure the conservation of important properties in the reduced-order model. It uses a time-continuous formulation with complex-valued latent space dynamics to hierarchically decompose the dynamics into their pertinent scales, promoting the discovery of slow processes that control the system's evolution over long time horizons."
+}

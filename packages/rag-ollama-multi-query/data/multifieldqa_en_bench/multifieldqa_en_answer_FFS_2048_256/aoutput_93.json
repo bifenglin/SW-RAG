@@ -1,0 +1,3 @@
+{
+    "answer": "The models used for dialect identification were BERT and RoBERTa with a linear layer connected to the pooler output of the models."
+}

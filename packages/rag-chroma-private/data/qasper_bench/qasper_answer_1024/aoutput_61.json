@@ -1,0 +1,3 @@
+{
+    "answer": "They combine audio and text sequences in their RNN by encoding both audio and text information simultaneously via a dual recurrent encoder."
+}

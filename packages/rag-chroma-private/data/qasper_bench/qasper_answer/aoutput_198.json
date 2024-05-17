@@ -1,0 +1,3 @@
+{
+    "answer": "The authors evidence the claim by stating that building models under general-purpose deep learning frameworks such as TensorFlow, PyTorch, and Keras requires a large overhead of mastering framework details. They also mention that higher level abstractions to hide framework details are favored by many engineers."
+}

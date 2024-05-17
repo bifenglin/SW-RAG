@@ -1,0 +1,3 @@
+{
+    "answer": "The framework captures the reduced-order dynamics by using a propagator in the latent space to model the system's dynamics. The latent space dynamics are represented by complex-valued latent variables, and a continuous ODE in the complex plane is used for each dimension of the latent variable. This approach allows for interpretable reduced-order modeling with time-scale separation, where the real part of the complex numbers is associated with growth and decay, and the imaginary part represents the periodic component."
+}

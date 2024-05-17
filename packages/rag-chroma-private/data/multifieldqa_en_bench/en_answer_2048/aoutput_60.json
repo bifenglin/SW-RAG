@@ -1,0 +1,3 @@
+{
+    "answer": "The performance of the PLM with decimation is better than other methods, including the PLM with $l_2$ regularization and a mean-field technique. The PLM with decimation is able to accurately infer the network of interactions even in under-sampling regimes and consistently produces smaller reconstruction errors compared to other techniques across different temperatures and sample sizes."
+}

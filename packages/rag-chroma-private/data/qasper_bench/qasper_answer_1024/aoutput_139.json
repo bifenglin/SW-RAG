@@ -1,0 +1,3 @@
+{
+    "answer": "The model performance on target language reading comprehension is explored using pre-trained multilingual language representation, such as multi-BERT. The model is fine-tuned on the training set in the source language and then tested in the target language. The study shows that the models have the ability to transfer between low lexical similarity language pairs, such as English and Chinese, indicating promising results for zero-shot transfer in reading comprehension tasks."
+}

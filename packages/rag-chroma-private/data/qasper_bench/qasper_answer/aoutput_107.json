@@ -1,0 +1,3 @@
+{
+    "answer": "The authors demonstrate limitations of their model in terms of generating English poems in Shakespearean style due to the lack of an end-to-end dataset with similar words, resulting in low average content scores. They suggest expanding the style transfer dataset for a better representation of the poem data."
+}

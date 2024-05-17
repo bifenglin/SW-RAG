@@ -1,0 +1,3 @@
+{
+    "answer": "A semicharacter architecture is a type of RNN (Recurrent Neural Network) that processes a sentence of words with misspelled characters, predicting the correct words at each step. It involves representing each input word by concatenating a one-hot vector of the first character, a one-hot representation of the last character, and a bag of characters representation of the internal characters. The semicharacter architecture treats the first and last characters individually and is agnostic to the ordering of the internal characters. Each word representation is then fed into a BiLSTM cell for processing."
+}

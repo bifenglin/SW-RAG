@@ -1,0 +1,3 @@
+{
+    "answer": "The proposed qualitative annotation schema includes dimensions of linguistic complexity, required reasoning and background knowledge, and factual correctness. It categorizes gold standards based on these high-level categories for annotating questions, expected answers, and corresponding contexts. Additionally, lexical cues are used to approximate the complexity of the reading comprehension task. Entries from each gold standard are sampled and annotated to obtain measurable results and identify challenges present in the data."
+}

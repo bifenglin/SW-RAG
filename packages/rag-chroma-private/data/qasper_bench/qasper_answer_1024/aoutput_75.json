@@ -1,0 +1,3 @@
+{
+    "answer": "They use the CFILT-preorder system for reordering English sentences to match the Indian language word order. This system contains generic rules that apply to all Indian languages and hindi-tuned rules which improve the generic rules by incorporating improvements found through an error analysis of English-Hindi reordering."
+}

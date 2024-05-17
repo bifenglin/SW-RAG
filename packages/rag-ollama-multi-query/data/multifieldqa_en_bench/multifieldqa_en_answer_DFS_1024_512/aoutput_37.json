@@ -1,0 +1,3 @@
+{
+    "answer": "The stability conditions for a solution of $-\\Delta u = f(u)$ are that the integral of $f'(u) \\psi^2$ must be less than or equal to the integral of $|\\nabla \\psi|^2$ for all $\\psi \\in C_c^2$."
+}

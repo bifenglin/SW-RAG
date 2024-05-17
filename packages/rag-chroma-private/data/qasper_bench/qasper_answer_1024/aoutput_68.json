@@ -1,0 +1,3 @@
+{
+    "answer": "The benchmark dataset is the Social Honeypot dataset created by Lee et al. The quality of this dataset is high as it contains 19,276 legitimate users and 22,223 spammers with their tweet content collected over 7 months."
+}

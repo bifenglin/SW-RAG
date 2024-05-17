@@ -1,0 +1,3 @@
+{
+    "answer": "Weights are dynamically adjusted by associating each training example with a weight in proportion to $(1-p)$, and this weight changes as training proceeds. This dynamic weight adjusting strategy helps to deemphasize confident examples during training as their $p$ approaches the value of 1, making the model attentive to hard-negative examples and alleviating the dominating effect of easy-negative examples."
+}

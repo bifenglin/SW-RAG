@@ -1,0 +1,3 @@
+{
+    "answer": "The function beta(r) is determined through a separation of variables and integration, resulting in the equation beta(r) = sqrt(-2C/r + 2D), where D is the second integration constant. The value of D is chosen to be 0 based on the initial condition for infalling observers. The final form of beta(r) is then determined to be beta(r) = sqrt(2GM/(rc^2)), where GM is the gravitational constant and c is the speed of light."
+}

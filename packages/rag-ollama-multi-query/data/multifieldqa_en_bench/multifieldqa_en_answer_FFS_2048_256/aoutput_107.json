@@ -1,0 +1,3 @@
+{
+    "answer": "The framework captures the reduced-order dynamics by using a complex-valued latent space with continuous dynamics and only requiring one scalar variable per latent dimension. Linear and non-linear autoencoders are used to map the high-dimensional time-series to the lower-dimensional latent representation, and the framework identifies the autoencoder as well as the latent dynamics by optimizing a combined loss function. This approach unifies the tasks of dimensionality reduction and discovery of the reduced dynamics, whereas other frameworks treat these two parts separately."
+}

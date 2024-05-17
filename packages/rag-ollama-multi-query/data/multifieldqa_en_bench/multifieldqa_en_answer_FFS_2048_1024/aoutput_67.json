@@ -1,0 +1,3 @@
+{
+    "answer": "The conduction gap depends on the strain direction in a way that it has peaks at specific angles for both tensile and compressive strains. For a strain direction of $30^\\circ$, the conduction gap has peaks at approximately $47^\\circ$ and $133^\\circ$ for tensile strain, and at approximately $43^\\circ$ and $137^\\circ$ for compressive strain. It is also zero at certain angles, such as $0^\\circ$ and $90^\\circ$, where peaks occur in the case of a strain direction of $0^\\circ$. The relationship between the two transport directions can be explained by the shift of Dirac points along different axes when varying the strain direction."
+}

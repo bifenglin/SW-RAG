@@ -1,0 +1,3 @@
+{
+    "answer": "The language model architectures used are a bi-directional model to augment the sequence to sequence encoder and a uni-directional model to augment the decoder."
+}

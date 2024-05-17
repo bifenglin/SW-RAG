@@ -1,0 +1,3 @@
+{
+    "answer": "The stability conditions for a solution of $-\\Delta u = f(u)$ are given by the inequality $\\int \\omega_2 f'(u) \\psi^2 \\le \\int \\omega_1 |\\nabla \\psi|^2$ for all $\\psi \\in C_c^2$, where $\\omega_1$ and $\\omega_2$ are smooth positive functions and $f(u)$ is a non-linearity such as $e^u$, $u^p$ with $p>1$, or $-u^{-p}$ with $p>0."
+}

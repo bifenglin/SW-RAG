@@ -1,0 +1,3 @@
+{
+    "answer": "They combine audio and text sequences in their RNN by encoding the information from audio and text sequences using dual RNNs and then combining the information from these sources using a feed-forward neural model to predict the emotion class."
+}

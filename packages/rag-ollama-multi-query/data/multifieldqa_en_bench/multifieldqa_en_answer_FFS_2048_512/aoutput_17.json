@@ -1,0 +1,3 @@
+{
+    "answer": "The function beta(r) is determined by solving the differential equation β(r)β'(r) = C/r^2, separating variables, integrating both sides, and solving for β(r) to obtain β(r) = √(-2C/r + 2D), where D is the second integration constant. The integration constant D is determined to be 0 based on the initial conditions for infalling observers. The function β(r) is further refined by ensuring that for large values of r, it corresponds to the results from Newtonian gravity, leading to the final form β(r) = √(2GM/rc^2), where G is the gravitational constant, M is the mass, and c is the speed of light."
+}

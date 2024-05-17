@@ -1,0 +1,3 @@
+{
+    "answer": "The decoder architecture is an LSTM decoder that generates the characters in the output word form using encoder states and an attention mechanism."
+}

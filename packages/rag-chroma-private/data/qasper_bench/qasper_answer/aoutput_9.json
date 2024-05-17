@@ -1,0 +1,3 @@
+{
+    "answer": "The ensemble method works by averaging the predictions from constituent single models. Single models are selected using an algorithm that starts with the best performing model, then gradually adds the best performing models that have not been previously tried. Models are kept in the ensemble if they improve validation performance and discarded otherwise. The algorithm was offered 10 models and selected 5 of them for the final ensemble."
+}

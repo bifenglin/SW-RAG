@@ -1,0 +1,3 @@
+{
+    "answer": "Based on the provided context, they evaluate on English datasets by using sections 02-21 of the WSJ corpus as training data and evaluating on section 23."
+}

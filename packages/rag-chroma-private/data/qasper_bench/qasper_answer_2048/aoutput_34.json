@@ -1,0 +1,3 @@
+{
+    "answer": "The improvement in performance for Estonian in the NER task is that the ELMo embeddings improve the results compared to fastText embeddings."
+}

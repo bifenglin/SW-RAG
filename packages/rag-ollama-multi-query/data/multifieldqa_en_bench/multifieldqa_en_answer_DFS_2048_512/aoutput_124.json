@@ -1,0 +1,3 @@
+{
+    "answer": "The effect of accounting for path preference on the robot's belief update is that it improves performance compared to the goal-only baseline. By considering path preference in the model, the robot's entropy over the goal distribution decreases more steadily, allowing for better leveraging of the human's observations and ultimately leading to successful goal achievement."
+}

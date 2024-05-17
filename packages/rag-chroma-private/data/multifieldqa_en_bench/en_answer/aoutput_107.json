@@ -1,0 +1,3 @@
+{
+    "answer": "The framework captures the reduced-order dynamics by only needing the value of observables, not their derivatives, as training data, and by identifying interpretable latent dynamics that ensure the conservation of important properties reflected in the reduced-order model."
+}
