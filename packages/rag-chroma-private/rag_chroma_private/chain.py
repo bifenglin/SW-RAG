@@ -1,7 +1,7 @@
 # Load
 from langchain_community.chat_models import ChatOllama
 from langchain_community.document_loaders import WebBaseLoader, PyPDFLoader
-from langchain_community.embeddings import GPT4AllEmbeddings, OpenAIEmbeddings, OllamaEmbeddings
+from langchain_community.embeddings import OllamaEmbeddings
 from langchain_community.vectorstores import Chroma
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.prompts import ChatPromptTemplate
