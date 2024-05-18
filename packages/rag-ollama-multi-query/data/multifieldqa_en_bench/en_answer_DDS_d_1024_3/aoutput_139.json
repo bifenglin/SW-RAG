@@ -1,0 +1,3 @@
+{
+    "answer": "The potential of SNNs in modeling the visual system is demonstrated by the fact that they achieve higher similarity scores than CNNs with the same depth and almost the same architectures. The study shows that SNNs outperform their counterparts of CNNs in almost all experiments, indicating that SNNs could serve as promising candidates to better model and explain the functional hierarchy and mechanisms of the visual system."
+}

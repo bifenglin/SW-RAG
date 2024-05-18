@@ -1,0 +1,3 @@
+{
+    "answer": "The potential of SNNs in modeling the visual system is significant, as they have been shown to achieve higher similarity scores compared to CNNs with similar architectures. SNNs have the ability to capture temporal features and encode information with spikes, making them more biologically plausible models. Additionally, SNNs outperform CNNs in fitting neural representations and can serve as a powerful tool for research on the visual system, shedding light on visual processing mechanisms in both macaques and mice."
+}

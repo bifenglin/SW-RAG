@@ -1,0 +1,3 @@
+{
+    "answer": "The electron correlation parameter, $\\Gamma_e$, is defined as the ratio of the average unscreened electron-electron potential energy to the electron kinetic energy. It is expressed as $\\Gamma_e = \\frac{e^2}{4\\pi \\epsilon_0 a_{ws}} \\frac{1}{k_B T_e}$, where $a_{ws}$ is the Wigner-Seitz radius related to the electron density."
+}

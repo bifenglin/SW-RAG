@@ -1,0 +1,3 @@
+{
+    "answer": "The relationship between the maximum velocity and the amplitude of the blob or depletion is described by a model that captures both linear and square root scaling behaviors. For small amplitudes, the velocity scales linearly with the amplitude, while for larger amplitudes there is a transition to a square root scaling. The model predicts this transition to occur at around a relative amplitude of 0.5 for blobs and 0.5 for depletions. Additionally, the model accounts for deviations in acceleration for different amplitudes, with a linear regime present in the compressible system but absent in the incompressible system."
+}

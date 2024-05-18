@@ -1,0 +1,3 @@
+{
+    "answer": "The relationship between the maximum velocity and the amplitude of the blob or depletion is described by a square root scaling for small amplitudes, transitioning to a linear scaling for larger amplitudes in compressible flows. In incompressible flows, the maximum velocity follows the square root scaling almost perfectly. For depletions, the velocities follow the square root scaling for amplitudes larger than a specific threshold, while for smaller amplitudes, the velocities coincide with the corresponding blob velocities."
+}

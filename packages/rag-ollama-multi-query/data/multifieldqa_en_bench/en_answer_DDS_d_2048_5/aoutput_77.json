@@ -1,0 +1,3 @@
+{
+    "answer": "The completion of shapes is affected by the receptive field size in the following way: the experiment showed that models with bigger receptive field sizes are able to complete shapes with bigger gaps more successfully. It was observed that the bigger the filter size, the more successful the algorithm is in filling in the gaps in the shapes."
+}

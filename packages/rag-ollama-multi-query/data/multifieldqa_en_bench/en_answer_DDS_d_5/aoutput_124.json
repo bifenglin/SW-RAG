@@ -1,0 +1,3 @@
+{
+    "answer": "Accounting for path preference in the robot's belief update reduces the robot's over-confidence in incorrect beliefs about the user's preferences. This leads to improved system performance and allows the robot to make effective navigation decisions in collaboration with a human, even when the goal and path preference are not known in advance."
+}

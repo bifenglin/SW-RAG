@@ -1,0 +1,3 @@
+{
+    "answer": "Smartphones are far more compact and power constrained compared to tablets. Smartphone SoCs are limited to around 1W, both by batteries and by thermal dissipation. The main purpose of a smartphone is connectivity, so a cellular modem is an absolute necessity. On the other hand, tablets have a much greater power budget, up to 4W for a passively cooled device and as high as 7-8W for systems with fans. Additionally, the default connectivity for tablets is Wi-Fi rather than a cellular modem. Tablets also have larger screens, making them more suitable for games and media. Overall, smartphones and tablets have started to diverge and will continue to do so over time."
+}

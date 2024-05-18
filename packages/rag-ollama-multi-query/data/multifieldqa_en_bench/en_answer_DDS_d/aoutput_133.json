@@ -1,0 +1,3 @@
+{
+    "answer": "Decorrelating the data before running the PLS algorithm improves its performance. This is because it allows for a more accurate estimation of the parameters of interest, such as the spectral density or the Hurst parameter, by taking into account the dependence in the data."
+}

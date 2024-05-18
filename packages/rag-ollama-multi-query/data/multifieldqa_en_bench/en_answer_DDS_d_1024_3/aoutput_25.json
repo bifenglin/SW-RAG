@@ -1,0 +1,3 @@
+{
+    "answer": "The transition probability of the environment affects the learning rate in the static agent by increasing as the transition probability increases. Initially, the learning rate rises as the transition probability is increased, reaching a peak before beginning to decline slowly. This indicates that faster learning is required as the rate of environmental transition increases in order to exploit the shorter stays in each environment."
+}

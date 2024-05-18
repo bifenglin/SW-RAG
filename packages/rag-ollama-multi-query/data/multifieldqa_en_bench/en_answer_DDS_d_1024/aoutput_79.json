@@ -1,0 +1,3 @@
+{
+    "answer": "Yes, the denoiser can be applied to circuits with non-Clifford noise, as mentioned in the context: \"We have introduced a probabilistic error cancellation scheme, where a classically determined denoiser mitigates the accumulated noise of a (generally non-Clifford) local noise channel.\""
+}
