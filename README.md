@@ -1,33 +1,35 @@
 # SW-RAG
 
+SW-RAG is an innovative system designed to improve the factual accuracy and reliability of outputs from Large Language Models (LLMs) by incorporating a sliding window mechanism during the indexing phase of the retrieval process. This repository contains the implementation of SW-RAG, along with instructions for usage and additional resources.
+
+## Note
+- [rag-chroma-private](packages%2Frag-chroma-private): Implemented single query RAG with three sliding window strategies, and the sliding window split is located in the splitter folder.
+- [rag-ollama-multi-query](packages%2Frag-ollama-multi-query): Implemented multi query RAG with three sliding window strategies, and the sliding window split is located in the splitter folder.
+
+## Features
+- Implementation of the SW-RAG system architecture
+- Support for multiple sliding window segmentation strategies (Fixed Window Size and Fixed Step Length Split, Dynamic Window Size with Fixed Step Length Split, Dynamic Window Size and Dynamic Step Length Split)
+- Integration with popular vector databases for efficient document storage and retrieval
+- Evaluation scripts for assessing system performance on various datasets and query types
+- Parameter optimization tools for selecting optimal chunk size and step size settings
+
 ## Installation
+
+Clone this repository to your local machine:
+
+```bash
+git clone https://github.com/your_username/sw-rag.git
+```
+
+Navigate to the cloned directory:
+```bash
+cd sw-rag
+```
 
 Install the LangChain CLI if you haven't yet
 
 ```bash
 pip install -U langchain-cli
-```
-
-## Adding packages
-
-```bash
-# adding packages from 
-# https://github.com/langchain-ai/langchain/tree/master/templates
-langchain app add $PROJECT_NAME
-
-# adding custom GitHub repo packages
-langchain app add --repo $OWNER/$REPO
-# or with whole git string (supports other git providers):
-# langchain app add git+https://github.com/hwchase17/chain-of-verification
-
-# with a custom api mount point (defaults to `/{package_name}`)
-langchain app add $PROJECT_NAME --api_path=/my/custom/path/rag
-```
-
-Note: you remove packages by their api path
-
-```bash
-langchain app remove my/custom/path/rag
 ```
 
 ## Setup LangSmith (Optional)
